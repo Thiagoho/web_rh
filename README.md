@@ -2,7 +2,7 @@
 
 # Projeto inicial de Web
 
-##### Por Gustavo Mendel
+##### Feito por Tiago Sales
 
 Com a popularização do **GitHub**, e também da grande quantidade de novos programadores ultimamente, 
 a demanda para aprender *Markdown* aumentou bastante. *Markdown* é uma linguagem de marcação, parecido 
